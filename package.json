@@ -1,8 +1,8 @@
 {
-  "name": "@your-org/vendure-plugins",
+  "name": "@arrrrny/vendure-plugins",
   "version": "1.0.0",
   "description": "Plugin template",
-  "repository": "https://github.com/vendure-ecommerce/plugin-template",
+  "repository": "https://github.com/arrrrny/vendure-plugins",
   "license": "MIT",
   "private": false,
   "engines": {
@@ -31,7 +31,7 @@
     "@vendure/core": "3.0.0",
     "@vendure/testing": "3.0.0",
     "@vendure/ui-devkit": "3.0.0",
-    "better-sqlite3": "^9.6.0",
+    "better-sqlite3": "^12.9.0",
     "cross-env": "^7.0.3",
     "dotenv": "^16.4.5",
     "fs-extra": "^11.2.0",
